@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{50742075-fe26-4e62-9d2a-a88be6bfe3a3}">
+		<property name="assetPath">
+			<value>pc_drum_loop_kayjun_kick_115.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.173922902494331</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{86fe96bd-d3a4-4127-a2cd-8972f56112ce}</destination>
+		</relationship>
+	</object>
+</objects>

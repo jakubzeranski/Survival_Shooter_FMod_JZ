@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{54ed4fad-056f-4731-8eba-b0f857347d1c}">
+		<property name="assetPath">
+			<value>SFX/Player/Gunshots/Guns, Pistol, Heavy Shots, Clipped, Distorted SND5951 2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.0582500000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{86fe96bd-d3a4-4127-a2cd-8972f56112ce}</destination>
+		</relationship>
+	</object>
+</objects>

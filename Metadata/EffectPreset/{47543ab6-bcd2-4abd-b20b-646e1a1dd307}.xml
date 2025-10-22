@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="EffectPreset" id="{47543ab6-bcd2-4abd-b20b-646e1a1dd307}">
+		<property name="name">
+			<value>Spatializer_Chain</value>
+		</property>
+		<relationship name="folder">
+			<destination>{9cc70db5-0fb4-4564-960b-583ba61d0051}</destination>
+		</relationship>
+		<relationship name="effect">
+			<destination>{a1d06158-6ad0-4ae9-be5d-b9574f075a02}</destination>
+		</relationship>
+	</object>
+	<object class="EffectChain" id="{a1d06158-6ad0-4ae9-be5d-b9574f075a02}">
+		<relationship name="effects">
+			<destination>{919e377b-9c61-4663-a62e-3b7425f4a685}</destination>
+		</relationship>
+	</object>
+	<object class="SpatialiserEffect" id="{919e377b-9c61-4663-a62e-3b7425f4a685}">
+		<property name="minimumDistance">
+			<value>0</value>
+		</property>
+		<property name="maximumDistance">
+			<value>150</value>
+		</property>
+	</object>
+</objects>
