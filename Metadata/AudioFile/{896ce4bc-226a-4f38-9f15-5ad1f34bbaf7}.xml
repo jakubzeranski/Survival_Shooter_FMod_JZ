@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{896ce4bc-226a-4f38-9f15-5ad1f34bbaf7}">
+		<property name="assetPath">
+			<value>Music/brass_2.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>10.666708333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{86fe96bd-d3a4-4127-a2cd-8972f56112ce}</destination>
+		</relationship>
+	</object>
+</objects>

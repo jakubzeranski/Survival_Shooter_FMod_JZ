@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{99308c1a-652c-45f5-bc06-b5a3f8c8f3f2}">
+		<property name="name">
+			<value>transition</value>
+		</property>
+		<relationship name="folder">
+			<destination>{f532566e-22dd-4407-ac90-85d1013ca3ec}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{78a2bb05-d9e3-4180-98fc-d699e0572a43}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{78a2bb05-d9e3-4180-98fc-d699e0572a43}">
+		<property name="maximum">
+			<value>5</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.19999998807907104</value>
+		</property>
+	</object>
+</objects>
